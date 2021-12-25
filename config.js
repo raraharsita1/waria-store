@@ -81,6 +81,7 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
+gc1 = 'https://chat.whatsapp.com/G30dx0vWbDNBbl6xLabgDh'
 namaig = 'Udah Kenon Pantek.!'
 linkf = gc1
 linkff = namaig
