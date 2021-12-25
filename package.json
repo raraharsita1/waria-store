@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/wariastore/bot-saya",
+  "homepage": "https://github.com/saipulanuar/waria-store",
   "author": {
     "name": "𝙒𝘼𝙍𝙄𝘼 𝙎𝙏𝙊𝙍𝙀"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wariastore/bot-saya.git"
+    "url": "git+https://github.com/saipulanuar/waria-store"
   },
   "bugs": {
-    "url": "https://github.com/wariastore/bot-saya/issues"
+    "url": "https://github.com/saipulanuar/waria-store/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
